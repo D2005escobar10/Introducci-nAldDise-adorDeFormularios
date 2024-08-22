@@ -1,0 +1,16 @@
+C:\Users\dresc\source\repos\FormularioContacto\bin\Debug\net8.0-windows\FormularioContacto.exe
+C:\Users\dresc\source\repos\FormularioContacto\bin\Debug\net8.0-windows\FormularioContacto.deps.json
+C:\Users\dresc\source\repos\FormularioContacto\bin\Debug\net8.0-windows\FormularioContacto.runtimeconfig.json
+C:\Users\dresc\source\repos\FormularioContacto\bin\Debug\net8.0-windows\FormularioContacto.dll
+C:\Users\dresc\source\repos\FormularioContacto\bin\Debug\net8.0-windows\FormularioContacto.pdb
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.Form1.resources
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.csproj.GenerateResource.cache
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.AssemblyInfoInputs.cache
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.AssemblyInfo.cs
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.csproj.CoreCompileInputs.cache
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.dll
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\refint\FormularioContacto.dll
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.pdb
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\FormularioContacto.genruntimeconfig.cache
+C:\Users\dresc\source\repos\FormularioContacto\obj\Debug\net8.0-windows\ref\FormularioContacto.dll
